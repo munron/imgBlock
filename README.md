@@ -10,9 +10,10 @@
 画像をアップロード後スライダーを操作  
 
 #導入  
-    $git clone https://github.com/muro-tani/imgBlock.git  
-    $npm install  
-    $nodejs app.js  
+    $ git clone https://github.com/muro-tani/imgBlock.git  
+    $ cd imgBlock  
+    $ npm install  
+    $ nodejs app.js  
 
 ![imbl1](https://github.com/muro-tani/imgBlock/blob/master/imbl1.png)  
 =
